@@ -1,6 +1,4 @@
-<p align="center">
-      <img src="./headers.png" />
-</p> 
+
 
 
 <h1 align="center">Hi 👋, I'm Pranav Kumar Pandey </h1>
