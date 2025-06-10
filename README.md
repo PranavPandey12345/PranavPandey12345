@@ -5,8 +5,8 @@
 <h3 align="center"> Highly	motivated	and	detail-oriented	data	analyst	enthusiast	with	a	strong	academic	background	in	statistics
  and	mathematics.	Proven	ability	to	collect,	clean,	and	analyze	data	to	identify	trends	and	patterns.	Strong
  communication	and	interpersonal	skills,	with	the	ability	to	work	independently	and	as	part	of	a	team </h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=computer%20science%20engineer%20emoji&imgurl=https%3A%2F%2Fwww.crio.do%2Fblog%2Fcontent%2Fimages%2Fsize%2Fw300%2F2020%2F09%2FSep_01.png&imgrefurl=https%3A%2F%2Fwww.crio.do%2Fblog%2Fmini-projects-for-computer-science-engineers%2F&docid=HBx9xipBz4GFGM&tbnid=CmhXl7uqJiLBdM&vet=12ahUKEwjY7biyr-eNAxURsVYBHdKcKxUQM3oFCIYBEAA..i&w=300&h=169&hcb=2&ved=2ahUKEwjY7biyr-eNAxURsVYBHdKcKxUQM3oFCIYBEAA">
-<br />
+<!-- <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=computer%20science%20engineer%20emoji&imgurl=https%3A%2F%2Fwww.crio.do%2Fblog%2Fcontent%2Fimages%2Fsize%2Fw300%2F2020%2F09%2FSep_01.png&imgrefurl=https%3A%2F%2Fwww.crio.do%2Fblog%2Fmini-projects-for-computer-science-engineers%2F&docid=HBx9xipBz4GFGM&tbnid=CmhXl7uqJiLBdM&vet=12ahUKEwjY7biyr-eNAxURsVYBHdKcKxUQM3oFCIYBEAA..i&w=300&h=169&hcb=2&ved=2ahUKEwjY7biyr-eNAxURsVYBHdKcKxUQM3oFCIYBEAA">
+<br /> -->
 
 
 - 🔭 I’m currently working on *Deep Learning Projects*
