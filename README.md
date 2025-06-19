@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning *Deep Learning*
 
-- 💬 Ask me about *Python,MySql*
+- 💬 Ask me about *Python,Sql*
 
 - 📫 How to reach me *pranav71204@gmail.com*
 
