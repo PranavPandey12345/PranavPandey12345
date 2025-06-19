@@ -5,7 +5,7 @@
 <h3 align="center"> Highly	motivated	and	detail-oriented	data	analyst	enthusiast	with	a	strong	academic	background	in	statistics
  and	mathematics.	Proven	ability	to	collect,	clean,	and	analyze	data	to	identify	trends	and	patterns.	Strong
  communication	and	interpersonal	skills,	with	the	ability	to	work	independently	and	as	part	of	a	team </h3>
- <img align="center" src="https://camo.githubusercontent.com/e3984754a38d82374440238f4599459311dfdfaebbee681b36c5ae8edf5a2e6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c615670304179715235624773433543626d2f67697068792e676966" align="right1" height="300" width="400" />
+ <img align="center" src="https://camo.githubusercontent.com/e3984754a38d82374440238f4599459311dfdfaebbee681b36c5ae8edf5a2e6c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c615670304179715235624773433543626d2f67697068792e676966" align="right" height="300" width="400" />
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=computer%20science%20engineer%20emoji&imgurl=https%3A%2F%2Fwww.crio.do%2Fblog%2Fcontent%2Fimages%2Fsize%2Fw300%2F2020%2F09%2FSep_01.png&imgrefurl=https%3A%2F%2Fwww.crio.do%2Fblog%2Fmini-projects-for-computer-science-engineers%2F&docid=HBx9xipBz4GFGM&tbnid=CmhXl7uqJiLBdM&vet=12ahUKEwjY7biyr-eNAxURsVYBHdKcKxUQM3oFCIYBEAA..i&w=300&h=169&hcb=2&ved=2ahUKEwjY7biyr-eNAxURsVYBHdKcKxUQM3oFCIYBEAA">
